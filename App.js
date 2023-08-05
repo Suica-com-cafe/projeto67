@@ -27,7 +27,7 @@ export default class App extends React.Component {
         <Header
           backgroundColor={'#9c8210'}
           centerComponent={{
-            text: 'Macaquinho Fofo',
+            text: 'Macaquinho Fofinho',
             style: { color: '#fff', fontSize: 20 },
           }}
         />
@@ -104,6 +104,5 @@ const styles = StyleSheet.create({
   imageIcon: {
     width: 150,
     height: 150,
-    marginLeft: 95,
   }
 });
